@@ -1,0 +1,440 @@
+player_id,name,date_of_birth,height,weight,nationality
+96472,Jérôme Prior,1995-08-08,187.0,86.0,France
+121792,Jamie McGrath,1996-09-30,175.0,71.0,Republic of Ireland
+123099,Warren O'Hora,1999-04-19,188.0,75.0,Republic of Ireland
+123659,Liam Scales,1998-08-08,187.0,85.0,Republic of Ireland
+123690,James Brown,1998-06-04,177.0,77.0,Republic of Ireland
+148853,Conor McMenamin,1995-08-24,183.0,76.0,Northern Ireland
+149461,Bradley Lyons,1997-05-26,176.0,70.0,Northern Ireland
+151045,Sivert Heltne Nilsen,1991-10-02,185.0,78.0,Norway
+151235,Per Kristian Worre Bråtveit,1996-02-15,188.0,72.0,Norway
+171964,Ryan McGowan,1989-08-15,191.0,75.0,Australia
+172104,James Forrest,1991-07-07,170.0,67.0,Scotland
+172357,Stuart Armstrong,1992-03-30,183.0,75.0,Scotland
+172415,Zander Clark,1992-06-26,191.0,85.0,Scotland
+172486,Rory McKenzie,1993-10-07,176.0,75.0,Scotland
+172575,Graeme Shinnie,1991-08-04,173.0,72.0,Scotland
+172581,John Souttar,1996-09-25,186.0,75.0,Scotland
+172600,Mark O'Hara,1995-12-12,191.0,73.0,Scotland
+172633,Liam Polworth,1994-10-12,179.0,72.0,Scotland
+172679,Jack Hamilton,1994-03-22,190.0,75.0,Scotland
+172695,Jordan McGhee,1996-07-24,183.0,77.0,Scotland
+172699,Barry McKay,1994-12-30,175.0,,Scotland
+172735,Cammy Kerr,1995-09-10,180.0,69.0,Scotland
+172748,Marcus Fraser,1994-06-23,182.0,75.0,Scotland
+172795,Martin Boyle,1993-04-25,172.0,65.0,Australia
+172815,Sam Nicholson,1995-01-20,175.0,71.0,Scotland
+172828,Christopher Cadden,1996-09-19,183.0,76.0,Scotland
+172831,Brian Graham,1987-11-23,188.0,77.0,Scotland
+172837,Gary Oliver,1995-07-14,178.0,,Scotland
+172923,Scott Bain,1991-11-22,183.0,75.0,Scotland
+172938,Lawrence Shankland,1995-08-10,185.0,78.0,Scotland
+172953,Greg Kiltie,1997-01-18,173.0,70.0,Scotland
+172957,Blair Spittal,1995-12-19,183.0,77.0,Scotland
+172960,Kieran Tierney,1997-06-05,180.0,70.0,Scotland
+172985,Scott Wright,1997-08-08,176.0,65.0,Scotland
+173043,Connor McLennan,1999-10-05,181.0,69.0,Scotland
+173046,Liam Gordon,1996-01-26,191.0,77.0,Scotland
+173056,Allan Campbell,1998-07-04,174.0,74.0,Scotland
+173058,Aidan Nesbitt,1997-02-05,174.0,65.0,Scotland
+173059,Kevin Nisbet,1997-03-08,180.0,77.0,Scotland
+173081,Stuart Findlay,1995-09-14,191.0,82.0,Scotland
+173089,Simon Murray,1992-03-15,182.0,70.0,Scotland
+173129,Anthony Ralston,1998-11-16,178.0,70.0,Scotland
+173230,Calvin Miller,1998-01-09,182.0,75.0,Scotland
+173733,Craig Sibbald,1995-05-18,170.0,,Scotland
+173767,Jamie Mccart,1997-06-20,186.0,66.0,Scotland
+173891,Nicky Devlin,1993-10-17,183.0,73.0,Scotland
+173948,Bruce Anderson,1998-09-23,173.0,77.0,Scotland
+174066,Liam Kelly,1996-01-23,184.0,85.0,Scotland
+174147,Jamie Sneddon,1997-09-06,185.0,,Scotland
+174211,Scott Pittman,1992-07-09,173.0,62.0,Scotland
+174235,Sean Mackie,1998-11-04,173.0,69.0,Scotland
+174304,Alan Forrest,1996-09-09,175.0,,Scotland
+174320,Scott Tiffoney,1998-08-26,176.0,70.0,Scotland
+174353,Liam Henderson,1996-08-23,191.0,,Scotland
+174381,Kyle Magennis,1998-08-26,181.0,73.0,Scotland
+174388,Craig Halkett,1995-05-29,183.0,83.0,Scotland
+174957,Jack Thomson,2000-01-20,178.0,79.0,Scotland
+174971,Thomas Lang,1997-06-12,186.0,,Scotland
+175335,Nicky Cadden,1996-09-19,178.0,70.0,Scotland
+191264,Jesper Karlsson,1998-07-25,179.0,70.0,Sweden
+198736,Nedim Bajrami,1999-02-28,179.0,68.0,Albania
+260840,Marcelo Josemir Saracchi Pintos,1998-04-23,172.0,69.0,Uruguay
+262280,Auston Trusty,1998-08-12,190.0,84.0,United States
+319282,Daizen Maeda,1997-10-20,173.0,67.0,Japan
+331385,Marvin Ekpiteta,1995-08-26,193.0,85.0,England
+337116,Elton Daniël Kabangu,1998-02-08,178.0,72.0,Belgium
+360621,Mohamad Sylla,1993-12-01,188.0,78.0,France
+364593,Tummise Sobowale,1999-03-19,181.0,,Republic of Ireland
+369624,Sander Erik Kartum,1995-10-03,180.0,73.0,Norway
+377964,Harry Milne,1996-10-29,183.0,76.0,Scotland
+378093,Ross Doohan,1998-03-29,186.0,73.0,Scotland
+378239,Kieran Wright,1999-04-01,189.0,76.0,Scotland
+378693,Lewis Smith,2000-03-16,176.0,67.0,Scotland
+378760,Zak Rudden,2000-02-06,187.0,81.0,Scotland
+378817,Ross MacIver,1999-02-28,189.0,77.0,Scotland
+378926,Ross Sinclair,2001-05-07,197.0,73.0,Scotland
+430377,Jonah Ananias Paul Ayunga,1997-05-24,185.0,80.0,Kenya
+432857,Elie Youan,1999-04-07,183.0,70.0,France
+455451,Ryan Strain,1997-04-02,181.0,76.0,Australia
+455498,Will Ferry,2000-12-07,175.0,68.0,Republic of Ireland
+455795,Christian Dahle Borchgrevink,1999-05-11,182.0,75.0,Norway
+456883,Kofi Balmer,2000-09-19,186.0,70.0,Northern Ireland
+464190,Ester Sokler,1999-06-04,181.0,69.0,Slovenia
+529045,Viljani Sinisalo,2001-10-11,196.0,76.0,Finland
+537388,Yan Dhanda,1998-12-14,173.0,65.0,England
+537593,Alasana Manneh,1998-04-08,176.0,61.0,Gambia
+537665,Dujon Sterling,1999-10-24,186.0,81.0,England
+540482,Ethan Hamilton,1998-10-18,187.0,75.0,Scotland
+540672,Stephen Welsh,2000-01-19,189.0,78.0,Scotland
+540673,Robbie Deas,2000-02-27,188.0,77.0,Scotland
+581047,Callum Slattery,1999-02-08,180.0,79.0,England
+581071,Beni Baningime,1998-09-09,178.0,70.0,DR Congo
+581092,Aston Oxborough,1998-05-09,196.0,98.0,England
+581122,Dan Nlundulu,1999-02-05,185.0,75.0,England
+581141,Thomas Mcintyre,1998-11-06,185.0,,Scotland
+586846,Derek Cornelius,1997-11-25,186.0,86.0,Canada
+586850,Jamie Brandon,1998-02-05,173.0,74.0,Scotland
+749643,John Koutroumbis,1998-03-06,183.0,73.0,Australia
+749937,Nick Suman,2000-02-28,197.0,,Australia
+749968,Keanu Baccus,1998-06-07,178.0,70.0,Australia
+752052,Shamal George,1998-01-06,198.0,75.0,England
+1452162,Rocky Bushiri,1999-11-30,187.0,78.0,Belgium
+1452334,Mats Knoester,1998-11-19,188.0,77.0,Netherlands
+1481494,Callum Hendry,1997-12-08,176.0,70.0,Scotland
+1494342,Elliot Watt,2000-03-11,175.0,72.0,Scotland
+8585,Callum McGregor,1993-06-14,180.0,73.0,Scotland
+1494663,Maximillian James Aarons,2000-01-04,177.0,69.0,England
+1525033,Julius Eskesen,1999-03-16,175.0,68.0,Denmark
+1525373,Kristers Tobers,2000-12-13,190.0,87.0,Latvia
+1548366,Luke McCowan,1997-12-09,177.0,,Scotland
+1685328,Andreas Skov Olsen,1999-12-29,187.0,75.0,Denmark
+2158212,Nicolas Raskin,2001-02-23,178.0,74.0,Belgium
+2483202,Jack Iredale,1996-05-02,184.0,84.0,Australia
+2510217,Elvis Bwomono,1998-11-29,185.0,63.0,Uganda
+2816058,Ashley Maynard-Brewer,1999-06-25,187.0,73.0,Australia
+2823414,Apostolos Stamatelopoulos,1999-04-09,184.0,84.0,Australia
+2823438,Lukas Fadinger,2000-09-27,172.0,65.0,Austria
+2875852,Rabbi Matondo,2000-09-09,175.0,66.0,Wales
+3169834,Ryan Mullen,2001-05-18,188.0,80.0,Scotland
+3169839,Leon McCann,2000-03-16,171.0,,Scotland
+3169869,Ethan Ross,2001-08-15,173.0,68.0,Scotland
+3187707,Alfredo Agyeman,2000-03-15,182.0,84.0,Italy
+3187720,Daniel Finlayson,2001-01-19,191.0,84.0,Northern Ireland
+3187964,Neil Farrugia,1999-05-19,187.0,83.0,Republic of Ireland
+3188134,Brad Spencer,1996-05-16,173.0,66.0,Scotland
+3533830,Adam Uche Idah,2001-02-11,190.0,83.0,Republic of Ireland
+3568421,Ante Palaversa,2000-04-06,187.0,77.0,Croatia
+4536496,Bojan Miovski,1999-06-24,189.0,76.0,North Macedonia
+4969690,Mbule Longelo Emmanuel,2000-12-27,184.0,,England
+5270387,Junior Chikwubuike Adamu,2001-06-06,183.0,79.0,Austria
+5270463,Danilo Pereira da Silva,1999-04-07,174.0,68.0,Brazil
+5640904,Elijah Henry Just,2000-05-01,176.0,68.0,New Zealand
+5666412,Afeez Aremu,1999-10-03,181.0,74.0,Nigeria
+7026565,Tyreece John-Jules,2001-02-14,183.0,75.0,England
+7340316,Yevhenii Kucherenko,1999-08-27,187.0,,Ukraine
+7346244,George Stanger,2000-08-15,191.0,85.0,New Zealand
+7688273,Shane Blaney,1999-01-20,190.0,79.0,Republic of Ireland
+7742181,Dylan Levitt,2000-11-17,180.0,73.0,Wales
+7745872,Kristijan Trapanovski,1999-08-14,180.0,,North Macedonia
+9302755,Ivan Dolček,2000-04-24,181.0,76.0,Croatia
+9939395,Ryan Astley,2001-10-04,184.0,,Wales
+10966261,Reo Hatate,1997-11-21,171.0,70.0,Japan
+12789495,Alex Matthias Tamm,2001-07-24,190.0,,Estonia
+13591493,Tomáš Čvančara,2000-08-13,190.0,79.0,Czech Republic
+14338021,Thibault Klidje,2001-07-10,170.0,65.0,Togo
+14358017,Vicko Ševelj,2000-09-19,183.0,,Croatia
+15169863,Sebastian Tounekti,2002-07-13,170.0,68.0,Tunisia
+16136386,Oliver Antman,2001-08-15,185.0,75.0,Finland
+16496779,Dominic Thompson,2000-07-26,183.0,75.0,England
+17187238,Michael Steinwender,2000-05-04,190.0,77.0,Austria
+18559789,Tómas Bent Magnússon,2002-08-14,193.0,,Iceland
+19642679,Michael Schjonning-Larsen,2001-02-02,187.0,,Estonia
+19979885,Benjamin Nygren,2001-07-08,186.0,76.0,Sweden
+20692353,Max Watters,1999-03-23,188.0,80.0,England
+20708316,Cameron Devlin,1998-06-07,170.0,68.0,Australia
+21053541,Oisin Smyth,2000-05-05,181.0,72.0,Northern Ireland
+21427972,Jon McCracken,2000-05-24,190.0,77.0,Scotland
+21763132,Ross Graham,2001-02-20,187.0,,Scotland
+21772796,Lewis Montsma,1998-04-25,191.0,82.0,Netherlands
+23260605,Julian Araujo,2001-08-13,176.0,70.0,Mexico
+23269649,Adil Aouchiche,2002-07-15,181.0,72.0,Algeria
+23269654,Leighton Clarkson,2001-10-19,175.0,62.0,England
+23697635,Krisztián Keresztes,2000-01-04,195.0,,Hungary
+23697671,Charlie Reilly,2001-12-05,181.0,,Scotland
+23697677,Andrew Winter,2002-03-10,170.0,61.0,Scotland
+23697679,Jamie Smith,2002-05-08,194.0,,Scotland
+23739094,Kion Reece Etete,2001-11-28,194.0,70.0,England
+24065382,Paulo Guilherme Gonçalves Bernardo,2002-01-24,184.0,78.0,Portugal
+24817153,Iurie Iovu,2002-07-06,196.0,,Moldova
+24817483,Liam Morrison,2003-04-07,183.0,,Scotland
+24817485,Connor Barron,2002-08-29,175.0,,Scotland
+25954296,Kieron Bowie,2002-09-21,190.0,,Scotland
+27440420,Oisin McEntee,2001-01-05,190.0,74.0,Republic of Ireland
+28184653,Josh Campbell,2000-05-06,182.0,,Scotland
+28571456,Harrison Sharp,2001-04-04,189.0,81.0,Scotland
+28575695,Marc Leonard,2001-12-19,180.0,,Scotland
+28912717,Tom Sparrow,2002-12-06,184.0,,Wales
+28912754,Roland Idowu,2002-01-21,183.0,78.0,Republic of Ireland
+28912837,Imari Narain Samuels,2003-02-05,187.0,79.0,England
+30446926,Pierre Landry Kabore,2001-07-05,188.0,,Burkina Faso
+30851414,Marcus Dackers,2003-01-09,201.0,,England
+31238681,Emmanuel Danso,2000-11-10,175.0,,Ghana
+32422758,Lewis Mayo,2000-03-19,188.0,,Scotland
+32777741,Djenario Daniels,2002-01-07,190.0,76.0,Netherlands
+32795608,Tochi Phil Chukwuani,2003-03-24,187.0,63.0,Denmark
+32796115,Emile Acauah,2000-07-13,191.0,,England
+32810192,Joshua Zimmerman,2001-05-23,182.0,70.0,Netherlands
+33608588,Dylan Tait,2001-12-01,176.0,82.0,Scotland
+33991811,Tawanda Jethro Maswanhise,2002-11-20,180.0,,Zimbabwe
+35259800,Alexandros Kiziridis,2000-09-16,179.0,,Greece
+35659846,Alistair Johnston,1998-10-08,180.0,77.0,Canada
+35683622,Lyall Cameron,2002-10-10,180.0,,Scotland
+35683623,Josh Mulligan,2002-11-12,175.0,,Scotland
+35683624,Finlay Robertson,2002-11-12,171.0,,Scotland
+37255845,Jayden Richardson,2000-09-04,184.0,76.0,England
+37259161,Billy Koumetio,2002-11-14,195.0,79.0,France
+37259210,Dane Scarlett,2004-03-24,180.0,76.0,England
+37262034,Callum Ward,2000-10-17,188.0,,England
+37264177,Kusini Yengi,1999-01-15,189.0,91.0,Australia
+37289467,Nicky Serghei Clescenco,2001-07-23,178.0,72.0,Moldova
+37289500,Cláudio Rafael Soares Braga,1999-10-28,180.0,70.0,Portugal
+37298119,Ethan Ingram,2003-04-16,179.0,,England
+37317417,Marko Lazetić,2004-01-22,192.0,80.0,Serbia
+37322758,Shayden Morris,2002-03-30,183.0,68.0,England
+37328091,Gavin Molloy,2001-10-19,,,Republic of Ireland
+37337029,Djeidi Gassama,2003-09-10,177.0,70.0,France
+37337109,Tuur Rommens,2003-03-26,185.0,75.0,Belgium
+37337212,Arne Engels,2003-09-08,185.0,78.0,Belgium
+37341761,Joe Hugill,2003-10-19,188.0,,England
+37341882,Ibrahim Sa’id,2002-06-15,173.0,65.0,Nigeria
+37342595,Dane Murray,2003-06-26,193.0,,Scotland
+37344152,Nicky Hogarth,2001-07-04,182.0,,Scotland
+37344235,Aaron Donnelly,2003-06-08,185.0,,Northern Ireland
+37344344,Topi Keskinen,2003-03-07,180.0,,Finland
+37346912,Cameron Congreve,2004-01-24,180.0,,Wales
+37350707,Luca Stephenson,2003-09-17,182.0,,England
+37356299,Zach Robinson,2002-06-11,188.0,78.0,England
+37364876,Nicolas Milanovic,2001-11-14,185.0,76.0,Australia
+37373571,Eddie Beach,2003-10-09,196.0,72.0,Wales
+37373575,Joel Cotterill,2004-10-10,183.0,,Wales
+37391576,Thelo Aasgaard,2002-05-02,188.0,,Norway
+37391727,Brooklyn Kabongolo,2002-10-16,195.0,,England
+37402212,Callum Graham Jones,2001-04-05,182.0,80.0,Wales
+37407475,Lewis Neilson,2003-05-15,184.0,67.0,Scotland
+37422913,Connor Allan,2004-01-10,19.0,,Scotland
+37434598,Mohammed Diomande,2001-10-30,183.0,75.0,Ivory Coast
+37459066,Oluwatobi Oluwayemi,2003-05-08,188.0,,England
+37505264,Alexander Jensen,2001-08-24,180.0,78.0,Denmark
+37526239,Michel Ange Balikwisha,2001-05-10,178.0,69.0,Belgium
+37528090,Jannik Ikendo Wanner,1999-12-20,173.0,,Germany
+37529807,Killian Phillips,2002-03-30,190.0,85.0,Republic of Ireland
+37532070,Jake Young,2001-07-22,186.0,77.0,England
+37536786,Junior Robinson,2004-04-06,,,England
+37538366,Ryan Don Naderi,2003-07-10,194.0,82.0,Germany
+37539856,Babacar Fati,2000-02-01,177.0,,Portugal
+37540836,Kai Fotheringham,2003-04-18,169.0,66.0,Scotland
+37541046,Matty Connolly,2003-03-02,179.0,70.0,Scotland
+37544319,Nikolaj Moller,2002-07-20,194.0,80.0,Sweden
+37545409,Bert Esselink,1999-08-16,191.0,81.0,Netherlands
+37547142,Aidan  Denholm,2003-11-09,175.0,,Scotland
+37552408,Tete Yengi,2000-11-28,197.0,83.0,Australia
+37555366,Malik Dijksteel,2001-07-08,176.0,,Netherlands
+37558562,Adam Montgomery,2002-07-18,173.0,58.0,Scotland
+37559122,Zachary Sapsford,2002-08-16,185.0,,Australia
+37559763,Louie Marsh,2004-07-02,176.0,65.0,England
+37560485,Filip Lissah,2004-12-08,188.0,70.0,England
+37560802,Nasser Yacouba Djiga,2002-11-15,192.0,80.0,Burkina Faso
+37561124,Henry Cartwright,2004-12-11,175.0,67.0,England
+37562138,Oscar Priestman,2003-03-25,175.0,,Australia
+37562510,Igmane Hamza,2002-11-02,181.0,77.0,Morocco
+37563550,Hyun-Jun Yang,2002-05-25,179.0,73.0,South Korea
+37564402,Johnny Kenny,2003-06-06,177.0,,Republic of Ireland
+37565176,Zac Williams,2004-03-27,184.0,78.0,Wales
+37565269,Alfie Dorrington,2005-04-20,192.0,75.0,England
+37567243,Islam Chesnokov,1999-11-21,185.0,76.0,Kazakhstan
+37567289,Jefte Vital da Silva Dias,2003-12-21,183.0,,Brazil
+37569741,Aaron Davis,2002-08-23,,,Republic of Ireland
+37571435,Ante Šuto,2000-06-19,185.0,,Australia
+37574652,Eythor Martin Bjørgolfsson,2000-08-25,190.0,,Norway
+37575363,Richard King,2001-11-27,187.0,,Jamaica
+37576195,Jack Milne,2003-02-10,193.0,85.0,Scotland
+37576261,Ewan Wilson,2004-11-19,179.0,80.0,Scotland
+37577459,Emmanuel Fernandez,2001-11-20,198.0,75.0,England
+37578485,Victor Lopez,2003-05-08,168.0,,Mexico
+37614769,Tony Yogane,2005-09-24,178.0,68.0,England
+37615016,Oscar Manuel Cortés Cortés,2003-12-03,178.0,74.0,Colombia
+37615475,Eduardo Ageu Almeida Santos,2002-02-20,181.0,,Brazil
+37619474,Munashe Garananga,2001-01-18,188.0,80.0,Zimbabwe
+37623431,Jalmaro Calvin,2003-06-30,173.0,,Antigua and Barbuda
+37633246,Isaac Pappoe,2003-12-20,180.0,80.0,Ghana
+37634805,Shin Yamada,2000-05-30,175.0,75.0,Japan
+37640415,Kjartan Már Kjartansson,2006-07-14,,,Iceland
+37648537,Sam Culbert,2006-05-04,178.0,,Scotland
+37648631,Kanayochukwu Megwa,2004-01-23,,,England
+37648632,Jacob MacIntyre,2006-01-29,,,Scotland
+37648759,Samuel Cleall-Harding,2006-03-26,194.0,,Scotland
+37649472,Rudi Allan Molotnikov,2006-05-23,179.0,,Scotland
+37649502,Luca Ross,2006-08-11,177.0,,Scotland
+37649671,Corey Armour,2006-07-12,,,Scotland
+37649673,Ben Brannan,2007-01-30,173.0,,Scotland
+37649675,Kian Leslie,2005-03-15,,,Scotland
+37651099,Mikey Moore,2007-08-11,180.0,75.0,England
+37651108,Benjamin Tomaso Broggio,2007-01-29,181.0,75.0,England
+37655005,Benjamin Arthur,2005-10-09,192.0,80.0,England
+37657032,Findlay Curtis,2006-06-09,180.0,,Scotland
+37658186,Freddie Owens,2005-09-28,,,Scotland
+37660459,Joseph Mcgrath,2007-03-12,,,Scotland
+37663651,Ruari Ellis,2006-08-29,,,Scotland
+37714116,Owen Stirton,2007-01-30,191.0,70.0,Scotland
+37715909,Scott Constable,2007-08-22,,,Scotland
+37718674,Ashley Hay,2003-07-10,181.0,,England
+37721137,Calum Adamson,2007-08-07,,,Scotland
+37725829,Cesar Garza Cantu,2005-07-01,172.0,70.0,Mexico
+37729732,Francisco Aldahir Valenzuela López,2007-04-13,,,Mexico
+1712,Cameron Carter-Vickers,1997-12-31,183.0,92.0,United States
+2337,Johnny Russell,1990-04-08,178.0,79.0,Scotland
+2452,Jordan Obita,1993-12-08,181.0,74.0,England
+2662,Andrew Halliday,1991-10-11,181.0,82.0,Scotland
+2709,Paul Digby,1995-02-02,193.0,64.0,England
+2781,Joe Newell,1993-03-15,180.0,71.0,England
+2827,Andrew Shinnie,1989-07-17,181.0,70.0,Scotland
+3027,Kelle Roos,1992-05-31,196.0,90.0,Netherlands
+3372,Marley Watkins,1990-10-17,178.0,65.0,Wales
+3385,Aaron Tshibola,1995-01-02,190.0,78.0,DR Congo
+3752,Danny Wilson,1991-12-27,187.0,79.0,Scotland
+4417,Mikael Mandron,1994-10-11,191.0,82.0,France
+4492,Ryan Fulton,1996-05-23,191.0,80.0,Scotland
+4583,Daniel Barlaser,1997-01-18,184.0,62.0,England
+4613,Joe Rothwell,1995-01-11,185.0,77.0,England
+4763,Maksymilian Stryjek,1996-07-18,188.0,81.0,Poland
+4892,Kieran Dowell,1997-10-10,183.0,70.0,England
+5974,Stevie May,1992-11-03,178.0,60.0,Scotland
+6007,Dimitar Mitov,1997-01-22,193.0,76.0,Bulgaria
+6234,Regan Charles-Cook,1997-02-14,174.0,69.0,England
+6378,Coll Donaldson,1995-04-09,188.0,,Scotland
+7160,Liam Donnelly,1996-03-07,181.0,79.0,Northern Ireland
+7754,Graham Carey,1989-05-20,183.0,74.0,Republic of Ireland
+8201,Christian Alexis Montaño Castillo,1991-12-11,180.0,77.0,Colombia
+8470,Drey Jermaine Wright,1995-04-30,175.0,69.0,England
+8746,Dave Richards,1993-12-31,186.0,75.0,Wales
+8846,Scott Tanser,1994-10-23,182.0,65.0,England
+8881,Frankie Kent,1995-11-21,188.0,76.0,England
+9306,Clark Robertson,1993-09-05,188.0,76.0,Scotland
+9510,Paul McGinn,1990-10-22,179.0,76.0,Scotland
+9710,Sam Hart,1996-09-10,183.0,72.0,England
+9781,Alexandros Gogić,1994-04-13,185.0,83.0,Cyprus
+10602,Robbie Muirhead,1996-03-08,191.0,75.0,Scotland
+11472,Ryan Edwards,1993-10-07,195.0,88.0,England
+12227,Brad Halliday,1995-07-10,180.0,68.0,England
+12321,Stephen O'Donnell,1992-05-11,184.0,89.0,Scotland
+12412,Kieran O'Hara,1996-04-22,193.0,78.0,Republic of Ireland
+12673,Jon Nouble,1996-01-19,193.0,85.0,England
+13063,Tom Lowery,1997-12-31,168.0,75.0,England
+14302,Toyosi Olusanya,1997-10-14,181.0,68.0,England
+22268,Panutche Amadu Pereira Camará,1997-02-28,185.0,63.0,Guinea-Bissau
+25081,Joshua Brenet,1994-03-20,181.0,74.0,Curaçao
+26256,Jeremy Loteteka Bokila,1988-11-14,188.0,78.0,DR Congo
+28581,Cyriel Dessers,1994-12-08,185.0,84.0,Nigeria
+31668,Alexander Schwolow,1992-06-02,190.0,84.0,Germany
+32395,Felix Passlack,1998-05-29,170.0,74.0,Germany
+35708,Raphael Sallinger,1995-12-08,196.0,85.0,Austria
+47439,Dennis Geiger,1998-06-10,173.0,67.0,Germany
+70353,Plamen Galabov,1995-11-02,191.0,,Bulgaria
+35,Craig Gordon,1982-12-31,193.0,85.0,Scotland
+169,Kasper Schmeichel,1986-11-05,189.0,88.0,Denmark
+261,David Junior Hoilett,1990-06-05,174.0,70.0,Canada
+657,Trevor Carson,1988-03-05,185.0,85.0,Northern Ireland
+758,James Tavernier,1991-10-31,182.0,75.0,England
+807,Grant Hanley,1991-11-20,188.0,76.0,Scotland
+850,Alex Oxlade-Chamberlain,1993-08-15,180.0,70.0,England
+1233,Declan John,1995-06-30,178.0,75.0,Wales
+1442,Scott Arfield,1988-11-01,178.0,70.0,Canada
+1462,Jack Butland,1993-03-10,196.0,95.0,England
+1488,Kelechi Promise Iheanacho,1996-10-03,185.0,82.0,Nigeria
+1628,Stephen Kingsley,1994-07-23,178.0,67.0,Scotland
+6590,Jordan Smith,1994-12-08,183.0,,England
+37580292,Ruairidh Adams,2004-07-10,,,Scotland
+37580298,Finn Yeats,2004-04-19,178.0,74.0,Scotland
+37580336,Fraser Taylor,2003-02-20,,,Scotland
+37580983,Luke Graham,2004-02-11,192.0,,Scotland
+37581536,Detlef Esapa Osong,2004-09-21,,,England
+37581761,Mahamadou Susoho,2005-01-20,175.0,,Spain
+37581775,Ben Parkinson,2005-03-10,,,England
+37582863,Liam MacFarlane,2004-09-26,196.0,,Scotland
+37586349,Dario Naamo,2005-05-14,174.0,70.0,Finland
+37587573,Youssef Ramalho Chermiti,2004-05-24,192.0,84.0,Portugal
+37588255,Emmanuel Gyamfi,2004-07-23,178.0,74.0,Germany
+37588649,Dylan Lobban,2005-08-26,,,Scotland
+37588655,Miller Thomson,2004-07-20,170.0,,Scotland
+37589029,Zach Mitchell,2005-01-09,188.0,78.0,England
+37589619,Joe Westley,2004-10-18,182.0,,England
+37590367,Macauley Tait,2005-08-27,170.0,,Scotland
+37590770,David Watson,2005-02-12,,,Scotland
+37595805,Clinton Nsiala-Makengo,2004-01-17,189.0,,France
+37598290,Callum Osmand,2005-11-08,179.0,,Wales
+37602117,Lewis O'Donnell,2005-06-21,181.0,,Scotland
+37603838,Amar Abdirahman Ahmed Fatah,2004-02-19,180.0,73.0,Sweden
+37605120,Miguel Changa Chaiwa,2004-06-07,179.0,73.0,Zambia
+37609172,Kai Andrews,2006-08-06,185.0,72.0,Wales
+37611839,Ethan Williams,2005-11-14,,,England
+37612641,Kyrell Wilson,2004-12-01,173.0,70.0,England
+37614062,Jayden Meghoma,2006-06-28,176.0,80.0,England
+37614138,Dante Polvara,2000-06-21,193.0,86.0,United States
+37614366,Rogers Mato,2003-10-10,182.0,,Uganda
+37667060,Mitchel Frame,2006-01-25,178.0,,Scotland
+37667571,Keelan Adams,2001-11-13,,,Scotland
+37668294,Joe Bevan,2004-07-15,189.0,,Scotland
+37668873,Kenan Bilalovic,2005-06-22,186.0,,Sweden
+37673148,Miguel Freckleton,2003-08-06,193.0,,England
+37674154,Trey Ogunsugi,2006-12-26,190.0,80.0,Belgium
+37679253,Jahmai Simpson-Pusey,2005-11-04,187.0,79.0,England
+37683528,Samson Adeniran Lawal,2004-04-25,172.0,60.0,Nigeria
+37684783,Jacob Devaney,2007-06-11,178.0,,England
+37691888,Owen Elding,2006-03-07,,,England
+37695603,Ethan Brown,2005-06-01,191.0,,United States
+37696485,James Wilson,2007-03-06,184.0,,Scotland
+37699703,Hayato Inamura,2002-05-06,182.0,70.0,Japan
+37703705,Rhys Walker,2006-04-29,172.0,,Scotland
+37706195,Euan Bowie,2007-07-01,,,Scotland
+37706498,Mikey Booth,2007-01-02,,,Scotland
+37706499,Campbell Forrest,2007-10-10,,,Scotland
+37706501,Olly Whyte,2006-11-27,,,Scotland
+37706574,Rodrigo Viktors Vītols,2007-02-20,,,Latvia
+37706576,Jamie Mercer,2007-08-25,,,Scotland
+37706577,Fletcher Boyd,2008-01-26,180.0,,Scotland
+37706917,Finlay Allan,2006-06-17,,,Scotland
+37709746,Jordi Altena,2003-12-04,179.0,,Netherlands
+37712012,Emmanuel Agyei,2004-11-03,188.0,,Ghana
+37732189,Colby Donovan,2006-09-07,186.0,,Scotland
+37736707,Evan Mooney,2007-12-11,180.0,78.0,
+37755955,Aiden McCallion,2008-06-15,,,
+37763128,Archie James Traynor,2008-06-09,,,
+37764046,Lewis Gillie,2008-06-09,,,
+37764050,Grant Tamosevicius,,,,
+37764058,Matthew Mudie,,,,
+37764061,Harry Welsh,2008-03-06,,,
+37764062,Calvin Beattie,2008-03-12,,,
+37764063,Keir Gilligan,2008-06-06,,,
+37764122,Jay Gillies,2008-05-02,,,
+37764123,Zander McAllister,2008-04-22,178.0,,
+37764124,Rocco McColm,2008-09-29,,,
+37787170,Rydnn McGuire,2008-10-01,,,
+37787873,Zebedee Lawson,2008-11-18,,,
+37908539,Sabah Kerjota,2001-08-14,176.0,,Albania
+37911049,Barney Stewart,2004-04-07,188.0,,Scotland
+37912779,Evan Myles,2008-11-15,,,
+37918169,Ashton Scally,2010-04-18,,,
+38201614,Thomas Falconer,,184.0,,Scotland
+38202846,Jack Anderson,,,,Scotland
+38202870,Ethan Crombie,2009-01-21,,,Scotland
+38202874,Charley Oosenbrugh,2009-06-23,184.0,,Scotland
+38202877,Aaron Thomson,2009-03-26,,,Scotland
+38202882,Blane Watson,2009-08-05,177.0,,Scotland
+38202981,Luke Douglas,2009-07-16,,,Scotland
+38206183,Cole Coughlin,2008-06-19,,,Scotland
+38209338,Joe Hastings,2009-09-20,,,Scotland
+38211056,Kai Brown,2009-10-07,,,Scotland
+38214387,Ruari Duff,2010-04-21,,,Scotland
+38215084,Caiden McMillan,,,,Scotland
